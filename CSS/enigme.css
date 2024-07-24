@@ -136,7 +136,7 @@ nav .logo:hover {
 }
 
 .content .paragraphe {
-    background: url('//ASSETS/Illustrations + Logo/Enigme/Pantherenigme2.png') no-repeat, url('/ASSETS/Illustrations + Logo/Enigme/Pantherenigme3.png') no-repeat;
+    background: url('/ASSETS/Illustrations + Logo/Enigme/Pantherenigme2.png') no-repeat, url('/ASSETS/Illustrations + Logo/Enigme/Pantherenigme3.png') no-repeat;
     background-position: 0 0, 50px 90%;
     background-size: contain;
     height: 450px;

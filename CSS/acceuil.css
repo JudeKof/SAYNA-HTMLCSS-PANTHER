@@ -143,7 +143,7 @@ nav .logo:hover {
     filter: invert(22%) sepia(58%) saturate(2921%) hue-rotate(238deg) brightness(76%) contrast(102%);
 }
 
-/*Design des scroll*/
+/*Design scroll*/
 .scroll {
     display: flex;
     flex-direction: column;
@@ -215,7 +215,7 @@ nav .logo:hover {
     }
 }
 
-/*design de la deuxième section*/
+/*2nd session*/
 .perso {
     margin-left: 10%;
     background-color: var(--bleue-color);
@@ -233,7 +233,7 @@ nav .logo:hover {
     max-width: 100%;
 }
 
-/* Hover zoom sur les personnages */
+/* zoom sur les personnages */
 .persophoto img:hover {
     transform: scale(110%);
 }
@@ -422,7 +422,7 @@ nav .logo:hover {
     margin: 0 10px;
 }
 
-/* Formatage des input et textarea du formulaire */
+/* Formatage des input et text du formu */
 .champ input {
     width: 70%;
     height: 40px;
