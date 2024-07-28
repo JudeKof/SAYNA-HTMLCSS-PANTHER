@@ -80,7 +80,7 @@ blockquote p {
     text-decoration: underline;
 }
 
-.bar {
+.b1 {
     position: fixed;
     height: 500px;
     left: 3%;
@@ -88,7 +88,7 @@ blockquote p {
     opacity: 20%;
 }
 
-.bar2 {
+.b2 {
     height: 300px;
     position: fixed;
     left: 5%;
@@ -149,7 +149,7 @@ nav .logo:hover {
     flex-direction: column;
     gap: 5px;
     position: fixed;
-    left: 72px;
+    left: 55px;
     top: 295px;
 }
 
@@ -671,3 +671,4 @@ footer {
 .pol {
     grid-area: pol;
 }
+
